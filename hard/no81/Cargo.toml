@@ -1,0 +1,6 @@
+[package]
+name = "no81"
+version = "0.1.0"
+authors = ["ShihiroShiina <keisuke.fujita3@gmail.com>"]
+
+[dependencies]
